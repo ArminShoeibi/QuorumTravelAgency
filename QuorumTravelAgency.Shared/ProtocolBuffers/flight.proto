@@ -1,0 +1,9 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+option csharp_namespace = "QuorumTravelAgency.Shared";
+
+message AvailableFlightsRequest {
+	string origin = 1;
+	string destination = 2;
+	google.protobuf.Timestamp departureDate = 3;
+}

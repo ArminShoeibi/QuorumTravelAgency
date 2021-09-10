@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuorumTravelAgency.API", "QuorumTravelAgency.API\QuorumTravelAgency.API.csproj", "{503453CD-35C9-4373-A7A4-B3885F6B8FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuorumTravelAgency.Shared", "QuorumTravelAgency.Shared\QuorumTravelAgency.Shared.csproj", "{612B0DD3-D4AD-4F6C-BA77-35280A02988F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503453CD-35C9-4373-A7A4-B3885F6B8FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503453CD-35C9-4373-A7A4-B3885F6B8FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503453CD-35C9-4373-A7A4-B3885F6B8FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503453CD-35C9-4373-A7A4-B3885F6B8FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612B0DD3-D4AD-4F6C-BA77-35280A02988F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612B0DD3-D4AD-4F6C-BA77-35280A02988F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612B0DD3-D4AD-4F6C-BA77-35280A02988F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612B0DD3-D4AD-4F6C-BA77-35280A02988F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3990799-C594-4B90-AEEE-A4F530995988}
+	EndGlobalSection
+EndGlobal
